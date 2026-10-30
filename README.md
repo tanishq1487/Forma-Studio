@@ -1,6 +1,6 @@
 # Forma Studio
 
-Forma Studio is an independent, local-first visual design editor. It is not affiliated with Canva and does not use Canva branding, templates, or assets. The project implements a focused set of original creation and collaboration workflows; it does not reproduce a third-party product or unlock another service's paid features.
+Forma Studio is an independent, local-first visual design editor. 
 
 ## What works
 
